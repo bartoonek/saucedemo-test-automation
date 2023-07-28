@@ -27,6 +27,8 @@ class FindElementByClass():
         time.sleep(20)
 
 
+
+#someline
 findbyid = FindElementById()
 tekst = findbyid.locate_by_id()
 findbyclass = FindElementByClass()
